@@ -1269,7 +1269,7 @@ exec_file1:
 ;                STA $C8
 ;                LDA #' '
 ;                STA qual
-;                LDA #0
+                LDA #0
 ;                STA cur_drive
 	sta $9e
 
